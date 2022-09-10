@@ -1,0 +1,733 @@
+
+<!DOCTYPE html>
+<html lang="uk">
+  <head>
+        <title>Обласні центри України | Населені пункти — mistaUA</title>
+        <meta http-equiv="refresh" content="10804">        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Language" content="uk" />
+        <link rel="alternate" href="https://mistaua.com/Пошук_населених_пунктів/обласні-центри" hreflang="uk" /><link rel="alternate" href="https://mistaua.com/Поиск_населенных_пунктов/областные-центры" hreflang="ru" />                		                <meta name="theme-color" content="#1976D2">
+        <meta name="Description" content="Обласні центри, Пошук міст, селищ та сіл України 👀 за такими параметрами - назва, статус, водоймище, населення, площа, рік заснування, висота над рівнем моря" />  
+        <meta name="KeyWords" content="Обласні центри, Пошук населених пунктів, населені пункти України, міста України, села України, селища міського типу" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+        <!--Social-->
+        <meta itemprop="image" content="https://mistaua.com/style/img/logo_mista.jpg">
+		<meta property="og:title" content="Обласні центри України | Населені пункти" />
+		<meta property="og:description" content="Обласні центри, Пошук міст, селищ та сіл України 👀 за такими параметрами - назва, статус, водоймище, населення, площа, рік заснування, висота над рівнем моря" />
+        <meta property="og:image" content="https://mistaua.com/style/img/logo_mista.jpg">
+        <meta property="og:type" content="website">
+        <meta property="og:site_name" content="mistaua.com" />
+        
+        <link rel="icon" type="image/png" href="https://mistaua.com/style/img/logo_mista_16.png" sizes="16x16">  
+		<link rel="icon" type="image/png" href="https://mistaua.com/style/img/logo_mista_32.png" sizes="32x32">
+		<link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+		<meta name="apple-mobile-web-app-title" content="mistaUA"/>
+        <link rel="manifest" href="/style/img/mista.webmanifest">
+        <link rel="mask-icon" href="/style/img/safari-pinned-tab-mista.svg" color="#5bbad5">
+        <meta name="msapplication-config" content="/style/img/browserconfig-mista.xml">
+        <meta name="msapplication-TileColor" content="#da532c">
+        <meta name="theme-color" content="#ffffff">
+        <meta name="format-detection" content="telephone=no">
+
+        <link href="/style/css/bootstrap_29.css.gz" rel="stylesheet">
+        <link rel="preconnect" href="https://www.googletagmanager.com">
+        <link rel="preconnect" href="https://pagead2.googlesyndication.com">
+        <link rel="preconnect" href="https://googleads.g.doubleclick.net">
+       	        <script language="javascript">
+			// GA
+			
+			var lng="uk",
+                _gVar={
+				'city' : '', 
+				'district' : '', 
+				'region' : '',
+				'page' : '63',
+				'cat1' : '6',
+				'cat2' : '',
+				'article' : '',
+				'user' : '',
+                'filter' : [],
+                'filterSet' : [],
+                'filterData' : "",
+                'isTest' : '',
+                'showAside' : false,
+                'ABtest' : '',
+                'set' : {},
+                'rootLocation' : "/Пошук_населених_пунктів",
+                'coreLocation' : "/Пошук_населених_пунктів/обласні-центри",
+                'ga' : "UA-5753378-6"
+			};
+            _gVar.regionID=_gVar.city || _gVar.district || _gVar.region || "1";
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'UA-5753378-6', { 'send_page_view': false, 'debug_mode': _gVar.isTest });
+			gtag('set', {
+                'dimension1' : _gVar.city || '0',
+                'dimension2' : _gVar.district || '0',
+                'dimension3' : _gVar.region || '0',
+                'dimension4' : _gVar.page || '0',
+                'dimension5' : _gVar.cat1 || '0',
+                'dimension6' : _gVar.cat2 || '0',
+                'dimension7' : _gVar.user || '0',
+                'dimension8' : _gVar.article || '0',
+                //'dimension10' : _gVar.ABtest
+            });
+            gtag('get', 'UA-5753378-6', 'client_id', function(clientID){
+                gtag('set', {'dimension9':clientID});
+                gtag('event', 'page_view');
+            });
+            window.onerror = function (errorMsg, url, lineNumber, column, errorObj) {
+                if(url && url.indexOf(location.hostname)!==-1 && lineNumber>1 && errorMsg.indexOf('SecurityError')==-1 && errorMsg.indexOf('google')==-1) {
+                    var messErr = errorMsg + ' Script: ' + url + ' Line: ' + lineNumber + ' Column: ' + column + ' StackTrace: ' +  errorObj;
+                    console.log('!!ERROR!!! '+messErr);
+                    gtag('event', 'exception', {
+                      'description': messErr,
+                      'fatal': false 
+                    });
+                }
+            }			
+			var functionRun = [];
+			  		</script>
+        <script type="application/ld+json">
+            {
+              "@context": "https://schema.org",
+              "@type": "Organization",
+              "url": "https://mistaua.com",
+              "logo": "https://mistaua.com/style/img/logo_mista_180.png"
+            }
+        </script>
+  	</head>
+  	<body class="mista no-column color">
+  	<header class="navbar navbar-fixed-top matShadow">
+    	<div class="navbar-default">
+  		<div class="container-fluid">
+        	<a class="navbar-brand" href="/">
+                <span class="hidden-xs">mista</span> 
+                <span class="logo" href="#">
+                    <div></div>
+                </span>
+            </a>
+            
+           <ul class="nav nav-pills">
+                <li>
+                    <a class="hamburger-menu" data-open="main-menu-modal">
+                        <svg focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"></path></svg>
+                    </a>
+                </li>                             
+                                    <li>
+                        <a class="addbutclick" rel="nofollow" href="/Реєстрація"><span class="glyphicon glyphicon-plus-sign"></span> <span class="hidden-xs">Реєстрація / Вхід</span></a>
+                    </li>
+                                <li class="header-like">
+                    <a class="dropdown-toggle hover" data-toggle="dropdown">
+                       <span class="glyphicon glyphicon-thumbs-up"></span>
+                    </a>
+                    <div class="dropdown-menu pull-right matShadow"><ul class="share" data-type="header">
+				<li><a class="social s-facebook" id="s-facebook"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64" role="img" ><path class="fill-icon" d="M39.312 13.437H47V2h-9.094C26.938 2.469 24.688 8.656 24.5 15.125v5.719H17V32h7.5v30h11.25V32h9.281l1.781-11.156H35.75v-3.469a3.714 3.714 0 0 1 3.562-3.938z"></path></svg><span class="text"> Facebook</span></a></li>
+            	<li><a class="social s-messenger" id="s-messenger"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64" role="img" ><path class="fill-icon" d="M 32 0 C 14.328125 0 0 13.265625 0 29.628906 C 0 38.953125 4.652344 47.269531 11.925781 52.699219 L 11.925781 64 L 22.820312 58.019531 C 25.726562 58.824219 28.808594 59.261719 32 59.261719 C 49.671875 59.261719 64 45.996094 64 29.632812 C 64 13.269531 49.671875 0 32 0 Z M 35.179688 39.898438 L 27.03125 31.207031 L 11.132812 39.898438 L 28.625 21.332031 L 36.972656 30.023438 L 52.671875 21.332031 Z M 35.179688 39.898438"/></svg><span class="text"> Messenger</span></a></li>
+            	<li>
+            		<a class="social s-viber" id="s-viber"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64" role="img" ><path class="fill-icon" d="M 61.746094 37.046875 C 63.65625 20.976562 60.828125 10.828125 55.730469 6.238281 L 55.734375 6.238281 C 47.503906 -1.601562 19.710938 -2.761719 9.867188 6.589844 C 5.445312 11.164062 3.886719 17.875 3.71875 26.183594 C 3.546875 34.496094 3.34375 50.066406 17.851562 54.289062 L 17.867188 54.289062 L 17.851562 60.742188 C 17.851562 60.742188 17.753906 63.355469 19.425781 63.878906 C 21.332031 64.5 22.199219 63.285156 28.136719 56.191406 C 38.066406 57.054688 45.691406 55.078125 46.558594 54.792969 C 48.566406 54.121094 59.910156 52.617188 61.746094 37.046875 Z M 29.113281 51.652344 C 29.113281 51.652344 22.828125 59.492188 20.875 61.523438 C 20.234375 62.1875 19.535156 62.125 19.542969 60.8125 C 19.542969 59.953125 19.59375 50.105469 19.59375 50.105469 C 7.289062 46.578125 8.015625 33.320312 8.148438 26.382812 C 8.28125 19.445312 9.550781 13.761719 13.296875 9.9375 C 21.933594 1.835938 46.296875 3.648438 52.507812 9.484375 C 60.097656 16.210938 57.394531 35.21875 57.410156 35.867188 C 55.851562 48.863281 46.65625 49.6875 44.964844 50.25 C 44.242188 50.492188 37.535156 52.214844 29.113281 51.652344 Z M 29.113281 51.652344 "/>
+		<path class="fill-icon" d="M 32.59375 11.457031 C 31.566406 11.457031 31.566406 13.058594 32.59375 13.070312 C 40.558594 13.132812 47.117188 18.683594 47.1875 28.871094 C 47.1875 29.945312 48.761719 29.929688 48.75 28.855469 L 48.746094 28.855469 C 48.660156 17.882812 41.5 11.519531 32.59375 11.457031 Z M 32.59375 11.457031 "/>
+		<path class="fill-icon" d="M 43.070312 27.179688 C 43.046875 28.242188 44.617188 28.292969 44.628906 27.21875 C 44.761719 21.167969 41.03125 16.183594 34.019531 15.660156 C 32.992188 15.585938 32.886719 17.199219 33.910156 17.273438 C 39.988281 17.734375 43.191406 21.882812 43.070312 27.179688 Z M 43.070312 27.179688 "/>
+		<path class="fill-icon" d="M 41.390625 34.0625 C 40.070312 33.300781 38.730469 33.777344 38.175781 34.523438 L 37.015625 36.027344 C 36.425781 36.789062 35.324219 36.6875 35.324219 36.6875 C 27.289062 34.5625 25.136719 26.152344 25.136719 26.152344 C 25.136719 26.152344 25.039062 25.011719 25.777344 24.402344 L 27.226562 23.203125 C 27.953125 22.625 28.410156 21.238281 27.671875 19.878906 C 25.699219 16.3125 24.375 15.082031 23.699219 14.136719 C 22.988281 13.25 21.921875 13.050781 20.8125 13.652344 L 20.789062 13.652344 C 18.484375 15 15.957031 17.523438 16.765625 20.125 C 18.144531 22.867188 20.675781 31.605469 28.753906 38.207031 C 32.546875 41.332031 38.550781 44.53125 41.101562 45.269531 L 41.125 45.308594 C 43.636719 46.144531 46.078125 43.519531 47.382812 41.144531 L 47.382812 41.125 C 47.960938 39.976562 47.769531 38.886719 46.925781 38.175781 C 45.425781 36.714844 43.164062 35.101562 41.390625 34.0625 Z M 41.390625 34.0625 "/>
+		<path class="fill-icon" d="M 35.117188 21.609375 C 37.679688 21.761719 38.921875 23.097656 39.054688 25.847656 C 39.105469 26.921875 40.664062 26.847656 40.617188 25.773438 C 40.445312 22.183594 38.574219 20.183594 35.203125 19.996094 C 34.175781 19.9375 34.078125 21.550781 35.117188 21.609375 Z M 35.117188 21.609375 "/></svg><span class="text"> Viber</span></a>
+            	</li>
+            	<li><a class="social s-telegram" id="s-telegram"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64" role="img" ><path class="fill-icon" d="M 1.128906 30.859375 L 15.878906 36.363281 L 21.585938 54.71875 C 21.949219 55.894531 23.386719 56.328125 24.34375 55.546875 L 32.5625 48.847656 C 33.425781 48.144531 34.652344 48.109375 35.550781 48.765625 L 50.378906 59.527344 C 51.398438 60.269531 52.84375 59.710938 53.101562 58.476562 L 63.960938 6.234375 C 64.242188 4.886719 62.917969 3.761719 61.636719 4.257812 L 1.113281 27.605469 C -0.378906 28.183594 -0.367188 30.296875 1.128906 30.859375 Z M 20.664062 33.433594 L 49.484375 15.679688 C 50.003906 15.363281 50.539062 16.0625 50.09375 16.476562 L 26.308594 38.585938 C 25.472656 39.363281 24.929688 40.40625 24.777344 41.535156 L 23.96875 47.539062 C 23.859375 48.34375 22.734375 48.421875 22.515625 47.644531 L 19.398438 36.695312 C 19.039062 35.449219 19.5625 34.113281 20.664062 33.433594 Z M 20.664062 33.433594 "></path></svg><span class="text"> Telegram</span></a></li>
+            	<li><a class="social s-mail" id="s-mail"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64" role="img" ><path class="fill-icon" d="M 56.402344 7.695312 L 7.597656 7.695312 C 3.40625 7.695312 0 10.96875 0 14.988281 L 0 49.011719 C 0 53.03125 3.40625 56.304688 7.597656 56.304688 L 56.402344 56.304688 C 60.59375 56.304688 64 53.03125 64 49.011719 L 64 14.988281 C 64 10.96875 60.59375 7.695312 56.402344 7.695312 Z M 56.402344 49.863281 L 7.597656 49.863281 C 6.980469 49.863281 6.441406 49.464844 6.441406 49.011719 L 6.441406 19.488281 L 28.515625 38.125 C 28.96875 38.507812 29.542969 38.71875 30.136719 38.71875 L 33.863281 38.71875 C 34.457031 38.71875 35.03125 38.507812 35.484375 38.125 L 57.558594 19.488281 L 57.558594 49.011719 C 57.558594 49.464844 57.019531 49.863281 56.402344 49.863281 Z M 32 32.324219 L 10.53125 14.136719 L 53.46875 14.136719 Z M 32 32.324219 "></path></svg><span class="text"> E-mail</span></a></li>
+            	<li>
+            		<a class="social s-twitter" id="s-twitter"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64" role="img" ><path class="fill-icon" d="M60.448 15.109a24.276 24.276 0 0 1-3.288.968.5.5 0 0 1-.451-.853 15.146 15.146 0 0 0 3.119-4.263.5.5 0 0 0-.677-.662 18.6 18.6 0 0 1-6.527 2.071 12.92 12.92 0 0 0-9-3.75A12.363 12.363 0 0 0 31.25 20.994a12.727 12.727 0 0 0 .281 2.719c-9.048-.274-19.61-4.647-25.781-12.249a.5.5 0 0 0-.83.073 12.475 12.475 0 0 0 2.956 14.79.5.5 0 0 1-.344.887 7.749 7.749 0 0 1-3.1-.8.5.5 0 0 0-.725.477 11.653 11.653 0 0 0 7.979 10.567.5.5 0 0 1-.09.964 12.567 12.567 0 0 1-2.834 0 .506.506 0 0 0-.536.635c.849 3.282 5.092 7.125 9.839 7.652a.5.5 0 0 1 .267.87 20.943 20.943 0 0 1-14 4.577.5.5 0 0 0-.255.942 37.29 37.29 0 0 0 17.33 4.266 34.5 34.5 0 0 0 34.687-36.182v-.469a21.11 21.11 0 0 0 4.934-4.839.5.5 0 0 0-.58-.765z"></path></svg><span class="text"> Twitter</span></a>
+            	</li>
+            </ul></div>
+                </li>
+                <li>
+                    <a data-open="city-goURL" data-url="/addform/city.php" data-size="lg" data-data="name=city-goURL&url=&region=1">
+                       <span class="glyphicon glyphicon-map-marker"></span>
+                    </a>
+                </li>
+                <li>
+                    <a www="https://bank.gov.ua/ua/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi" class="dropdown-toggle hover" data-toggle="dropdown">
+                      <img width="20" height="20" src="/forces.svg" align="center"><span class="hidden-xs">&nbsp;Допомога ЗСУ</span>
+                    </a>
+                </li>
+                <li id="header-mobile-search-city">
+                    <a class="dropdown-toggle visible-xs" data-toggle="dropdown">
+                       <span class="glyphicon glyphicon-search"></span>
+                    </a>
+                    
+                    <div class="dropdown-menu pull-right city">
+                        <form id="m-search" data-url="" action="/" method="post">
+                            <input type="text" class="form-control" placeholder="Пошук..." maxlength="200">
+                            <button type="submit" form="m-search"><span class="glyphicon glyphicon-search"></span></button>
+                        </form>
+                        <div id="modal-search" data-size="lg" data-open="search" class="hidden"></div>
+                    </div>
+                </li>
+            </ul>
+  		</div>
+        </div>
+        
+    	</header>
+
+    <div class="modal fade main-menu" id="main-menu-modal" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-body color-grey">
+                    <a www="https://bank.gov.ua/ua/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi" class="dropdown-toggle hover" data-toggle="dropdown"> <h4 class="ellips"> <img width="20" height="20" src="/forces.svg" style="margin-right: 10px; vertical-align: sub;
+}">Допомога ЗСУ</h4>
+                    </a>
+                    <div class="separate-or"></div>
+                    <a href="/"><h4 class="ellips"><span class="glyphicon glyphicon-map-marker"></span> Україна</h4></a>
+                    <a href="/мапа/?setcity=1"><h4><span class="glyphicon glyphicon-globe"></span> Карта</h4></a>
+                    <a href="/Фотогалерея/?setcity=1"><span class="glyphicon glyphicon-camera"></span> Фотографії</a>
+                    <a href="/Памятки/?setcity=1" class="ellips"><span class="glyphicon glyphicon-tower"></span> Пам'ятки</a>
+                    <a href="/Постаті/?setcity=1"><span class="glyphicon glyphicon-user"></span> Постаті</a>
+                    <a href="/Історія/Історичні_події/?setcity=1"><span class="glyphicon glyphicon-calendar"></span> Історія</a>
+                    
+                    <div class="separate-or"><span>Бізнес</span></div>
+                    <a href="/Оголошення/?setcity=1"><h4><span class="glyphicon glyphicon-shopping-cart"></span> Оголошення</h4></a>
+                    <a href="/Інфраструктура/?setcity=1"><span class="glyphicon glyphicon-briefcase"></span> Інфраструктура</a>
+                    <a href="/Інфраструктура/Афіша/?setcity=1"><span class="glyphicon glyphicon-briefcase"></span> Афіша</a>
+                    
+                    <div class="separate-or"><span>Суспільство</span></div>
+                    <a href="/знайомства/?setcity=1"><h4><span class="glyphicon glyphicon-heart"></span> Знайомства</h4></a>
+                    <a href="/Новини/?setcity=1"><h4><span class="glyphicon glyphicon-list-alt"></span> Новини</h4></a>
+                    <a href="/Форум/?setcity=1"><h4><span class="glyphicon glyphicon-bullhorn"></span> Форум</h4></a>
+                    <a href="/Опитування/?setcity=1"><span class="glyphicon glyphicon-stats"></span> Опитування</a>
+
+                    <div class="separate-or"><span>Налаштування</span></div>
+                    <a id="cngLangLink" href="/Поиск_населенных_пунктов/областные-центры" title="Населенные пункты"><span class="glyphicon"><b>RU</b></span> Русским языком</a>                    <div class="dropup" id="selectColorTheme">
+                        <a class="menu-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-adjust"></span> Тема: <span class="color-text">світла</span> <span class="caret"></span></a>
+                        <ul class="dropdown-menu color-grey matShadow">
+                            <li><a data-setname="color" data-setval="0">світла</a></li>
+                            <li><a data-setname="color" data-setval="1">темна</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid main">
+        <article><script language="javascript">
+_gVar.csfunc=function(){
+	var citySearchEl=$('#cont_usSRCH'),
+		cNameSearch=$('input[name="cat"]'),
+		cRiverSearch=$('input[name="fns1"]');
+
+	citySearchEl.content({
+		url:'/%D0%9F%D0%BE%D1%88%D1%83%D0%BA_%D0%BD%D0%B0%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%85_%D0%BF%D1%83%D0%BD%D0%BA%D1%82%D1%96%D0%B2/%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D0%BD%D1%96-%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B8',
+		firstReload:false,
+		data : {
+			'reload' : 'ajax',
+			'cscontent' : '1'
+		}
+	});
+	if(cNameSearch.val()) {
+		setTimeout(function(){ _gVar.filter['cat']=[cNameSearch.val()]; }, 10)
+	}
+	if(cRiverSearch.val()) {
+		setTimeout(function(){ _gVar.filter['fns1']=[cRiverSearch.val()]; }, 10)
+	}
+	citySearchEl.on('click','.table th[sort]',function(){
+		citySearchEl.trigger('reloadContent', {
+			data : {'sort1' : $(this).attr('sort')}
+		});
+	});
+}
+functionRun.push(_gVar.csfunc);</script>
+
+<style>
+#cont_usSRCH .table tr td:not(:first-child),
+#cont_usSRCH .table tr th:not(:first-child){ text-align:center; }
+#cont_usSRCH th { font-size:90%; }
+#cont_usSRCH th[sort]{ cursor:pointer; }
+#cont_usSRCH .table-container { overflow-y: auto; }
+.breadcrumb.selectT1 .filter-container .with-input-select[name="populRange"] input { width: 51px; }
+.breadcrumb.selectT1 .filter-container .btn[name="hightRange"] .ellips {
+	display: inline-block;
+    vertical-align: middle;
+    max-width: 47%;
+    margin-left: -20px;
+}
+.filter-container .dropdown input.form-control {
+	padding-right: 34px;
+}
+.filter-container .dropdown .glyphicon {
+	position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 2;
+    cursor: pointer;
+    height: 34px;
+    width: 34px;
+    padding: 10px;
+    opacity: 0.5;
+}
+.filter-container>div:nth-child(2) li:first-child { display: none; }</style>
+<div class="main-title"><h1>Обласні центри України</h1></div><ol class="breadcrumb scrolling-wrapper" itemscope itemtype="http://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/Пошук_населених_пунктів"><span itemprop="name">Населені пункти</span><meta itemprop="position" content="1" /></a></li></ol><div class="breadcrumb selectT1 clearfix expand">
+		<div class="filter-container">
+			<div><div class="dropdown">
+			<div href="/Пошук_населених_пунктів" class="close">×</div>
+			<div class="modal-backdrop fade"></div>
+			<button class="btn btn-default dropdown-toggle ellips" type="button" data-toggle="dropdown">
+				Обласні центри <span class="glyphicon-dropdown"></span>
+			</button>
+			<ul class="dropdown-menu dropdown-cat color-grey" role="menu"><li class=" final"><a href="/Пошук_населених_пунктів">Всі категорії <span class="glyphicon glyphicon-menu-right"></span></a><li class=" final"><a href="/Пошук_населених_пунктів/міста">Міста <span class="glyphicon glyphicon-menu-right"></span></a><li class=" final"><a href="/Пошук_населених_пунктів/селища">Селища <span class="glyphicon glyphicon-menu-right"></span></a><li class=" final"><a href="/Пошук_населених_пунктів/села">Села <span class="glyphicon glyphicon-menu-right"></span></a><li class=" final"><a class="viborSel">Обласні центри <span class="glyphicon glyphicon-menu-right"></span></a><li class=" final"><a href="/Пошук_населених_пунктів/районні-центри">Районні центри <span class="glyphicon glyphicon-menu-right"></span></a></ul>
+		</div></div><div><div class="dropdown">
+	<div class="modal-backdrop fade"></div>
+		<button class="btn btn-default dropdown-toggle position-auto ellips" type="button" data-toggle="dropdown">День міста <span class="glyphicon-dropdown"></span></button>
+		<ul class="dropdown-menu descr-menu color-grey"><li><label><input  name="cday" type="checkbox" value="0"><span> січень</span></label></li><li><label><input  name="cday" type="checkbox" value="1"><span> лютий</span></label></li><li><label><input  name="cday" type="checkbox" value="2"><span> березень</span></label></li><li><label><input  name="cday" type="checkbox" value="3"><span> квітень</span></label></li><li><label><input  name="cday" type="checkbox" value="4"><span> травень</span></label></li><li><label><input  name="cday" type="checkbox" value="5"><span> червень</span></label></li><li><label><input  name="cday" type="checkbox" value="6"><span> липень</span></label></li><li><label><input  name="cday" type="checkbox" value="7"><span> серпень</span></label></li><li><label><input  name="cday" type="checkbox" value="8"><span> вересень</span></label></li><li><label><input  name="cday" type="checkbox" value="9"><span> жовтень</span></label></li><li><label><input  name="cday" type="checkbox" value="10"><span> листопад</span></label></li><li><label><input  name="cday" type="checkbox" value="11"><span> грудень</span></label></li>
+		<li class="searchresult hide"><label><button class="btn btn-primary">Знайдено: <span></span></button></label></li></ul>
+</div></div><div>
+	<div class="dropdown">
+		<div class="btn btn-default dropdown-toggle with-input-select ellips" data-toggle="dropdown" name="populRange">
+			<span class="ellips">Населення від</span> 
+			<input placeholder="10" name="populFrom" type="number" min="10" max="999999" value="">
+			<input name="populFrom" type="radio" class="hide"> до <input placeholder="999999" name="populTo" type="number" min="10" max="999999" value="">
+			<input name="populTo" type="radio" class="hide">
+		</div>
+	</div></div><div>
+	<div class="dropdown">
+		<div class="btn btn-default dropdown-toggle with-input-select ellips" data-toggle="dropdown" name="areaRange">
+			<span class="ellips">Площа від</span> 
+			<input placeholder="1" name="areaFrom" type="number" min="1" max="200" value="">
+			<input name="areaFrom" type="radio" class="hide"> до <input placeholder="200" name="areaTo" type="number" min="1" max="200" value="">
+			<input name="areaTo" type="radio" class="hide">
+		</div>
+	</div></div><div>
+	<div class="dropdown">
+		<div class="btn btn-default dropdown-toggle with-input-select ellips" data-toggle="dropdown" name="hightRange">
+			<span class="ellips">Висота над рівнем моря від</span> 
+			<input placeholder="1" name="hightFrom" type="number" min="1" max="600" value="">
+			<input name="hightFrom" type="radio" class="hide"> до <input placeholder="600" name="hightTo" type="number" min="1" max="600" value="">
+			<input name="hightTo" type="radio" class="hide">
+		</div>
+	</div></div><div>
+	<div class="dropdown">
+		<div class="btn btn-default dropdown-toggle with-input-select ellips" data-toggle="dropdown" name="ageRange">
+			<span class="ellips">Рік заснування від</span> 
+			<input placeholder="700" name="ageFrom" type="number" min="700" max="2000" value="">
+			<input name="ageFrom" type="radio" class="hide"> до <input placeholder="2000" name="ageTo" type="number" min="700" max="2000" value="">
+			<input name="ageTo" type="radio" class="hide">
+		</div>
+	</div></div><div><div class="dropdown"><span class="glyphicon glyphicon-search"></span>
+	<input maxlength="30" class="form-control text-center ffinder" type="text" name="cat" placeholder="Назва" value="">
+</div></div><div><div class="dropdown"><span class="glyphicon glyphicon-search"></span>
+	<input maxlength="30" class="form-control text-center ffinder" type="text" name="fns1" placeholder="Водойма" value="">
+</div></div><div><a data-unset="all" class="btn btn-default reset ellips"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span> Скинути (знайдено: 25)</a></div>
+			<span class="hide" id="searchresult">25</span>
+		</div>
+		<a class="showmore" id="allfilter"><span class="glyphicon glyphicon-filter" aria-hidden="true"></span> Всі фільтри</a></div><div class="filterchips scrolling-wrapper with-shadow"><div data-unset="all">скинути всі фільтри <span class="glyphicon glyphicon-remove"></span></div><div data-unset="type" data-href="/Пошук_населених_пунктів">обласні центри <span class="glyphicon glyphicon-remove"></span></div></div><div id="cont_usSRCH"><div class="adver type1">
+		<ins class="adsbygoogle"
+			style="display:block;" 
+			data-ad-client="ca-pub-3096674315255993" 
+			data-ad-slot="8975967568" data-full-width-responsive="true" data-ad-format="horizontal" >
+		</ins>
+		<script>try{(adsbygoogle = window.adsbygoogle || []).push({});}catch(e){}</script></div><div class="table-container"><table class="table"><tr>
+		<th sort="title">Назва</th>
+		<th class="region">Область<br>Район</th>
+		<th sort="popul">Населення</th>
+		<th class="area" sort="area">Площа км<sup>2</sup></th>
+		<th class="hight" sort="hight">Висота над рівнем моря</th>
+		<th class="tel_ind">Телефонний код</th>
+		<th class="mail_ind">Поштовий індекс</th>
+		<th class="made" sort="made">Рік заснування</th>
+		<th class="made_day">День міста</th>
+		<th class="activ" sort="activ">Активність</th>
+		<th class="view" sort="view">Переглядів на добу<span class="caret"></span></th>
+		<th class="gerb">Герб</th>
+		<th class="flag">Прапор</th>
+	</tr><tr >
+		<td><a href="/Україна/Київська_область/Київ,_Києво-Святошинський_район/Київ">м.&nbsp;Київ</a></td>
+		<td class="region"></td>
+		<td>2566953</td>
+		<td class="area">836</td>
+		<td class="hight">105</td>
+		<td class="tel_ind">+380 44</td>
+		<td class="mail_ind">1000</td>
+		<td class="made">482</td>
+		<td class="made_day">28.05</td>
+		<td class="activ">7417</td>
+		<td class="view">13541</td>
+		<td class="gerb"><img style="height:35px"  src="/filesup/city_gerb/278_1_1.png"></td>
+		<td class="flag"><img style="height:35px"  src="/filesup/city_flag/278_1_1.png"></td>
+		</tr><tr class="info">
+		<td><a href="/Україна/Львівська_область/Львів,_Пустомитівський_район/львів">м.&nbsp;Львів</a></td>
+		<td class="region">Львівська</td>
+		<td>725202</td>
+		<td class="area">160</td>
+		<td class="hight">284</td>
+		<td class="tel_ind">+380 32</td>
+		<td class="mail_ind">79000</td>
+		<td class="made">1256</td>
+		<td class="made_day">07.05</td>
+		<td class="activ">6720</td>
+		<td class="view">9175</td>
+		<td class="gerb"><img style="height:35px"  src="/filesup/city_gerb/545_1_1.png"></td>
+		<td class="flag"><img style="height:35px"  src="/filesup/city_flag/545_1_1.png"></td>
+		</tr><tr >
+		<td><a href="/Україна/Дніпропетровська_область/Дніпропетровський_район/дніпропетровськ">м.&nbsp;Дніпро</a></td>
+		<td class="region">Дніпропетровська</td>
+		<td>1053951</td>
+		<td class="area">380</td>
+		<td class="hight">79</td>
+		<td class="tel_ind">+380 56</td>
+		<td class="mail_ind">49000</td>
+		<td class="made">1783</td>
+		<td class="made_day">10.09</td>
+		<td class="activ">2531</td>
+		<td class="view">3764</td>
+		<td class="gerb"><img style="height:35px"  src="/filesup/city_gerb/364_1_1.png"></td>
+		<td class="flag"><img style="height:35px"  src="/filesup/city_flag/364_1_1.png"></td>
+		</tr><tr class="info">
+		<td><a href="/Україна/Харківська_область/Харківський_район/Харків">м.&nbsp;Харків</a></td>
+		<td class="region">Харківська</td>
+		<td>1449871</td>
+		<td class="area">350.02</td>
+		<td class="hight">120</td>
+		<td class="tel_ind">+380 57</td>
+		<td class="mail_ind">61000</td>
+		<td class="made">1653</td>
+		<td class="made_day">23.08</td>
+		<td class="activ">3518</td>
+		<td class="view">3219</td>
+		<td class="gerb"><img style="height:35px"  src="/filesup/city_gerb/125_1_1.png"></td>
+		<td class="flag"><img style="height:35px"  src="/filesup/city_flag/125_1_1.png"></td>
+		</tr><tr >
+		<td><a href="/Україна/Тернопільська_область/Тернопільський_район/тернопіль">м.&nbsp;Тернопіль</a></td>
+		<td class="region">Тернопільська</td>
+		<td>226029</td>
+		<td class="area">59</td>
+		<td class="hight">325</td>
+		<td class="tel_ind">+380 352</td>
+		<td class="mail_ind">46000</td>
+		<td class="made">1540</td>
+		<td class="made_day">28.08</td>
+		<td class="activ">3062</td>
+		<td class="view">2894</td>
+		<td class="gerb"><img style="height:35px"  src="/filesup/city_gerb/859_1_1.png"></td>
+		<td class="flag"></td>
+		</tr><tr class="info">
+		<td><a href="/Україна/Івано-Франківська_область/Тисменицький_район/Івано-Франківськ">м.&nbsp;Івано-Франківськ</a></td>
+		<td class="region">Івано-Франківська</td>
+		<td>215288</td>
+		<td class="area">83.73</td>
+		<td class="hight">260</td>
+		<td class="tel_ind">+380 342</td>
+		<td class="mail_ind">76000-76490</td>
+		<td class="made">1662</td>
+		<td class="made_day">07.05</td>
+		<td class="activ">3566</td>
+		<td class="view">2806</td>
+		<td class="gerb"><img style="height:35px"  src="/filesup/city_gerb/986_1_1.png"></td>
+		<td class="flag"><img style="height:35px"  src="/filesup/city_flag/986_1_1.png"></td>
+		</tr><tr >
+		<td><a href="/Україна/Одеська_область/Овідіопольський_район,_Одеса/Одеса">м.&nbsp;Одеса</a></td>
+		<td class="region">Одеська</td>
+		<td>1010298</td>
+		<td class="area">163</td>
+		<td class="hight">53</td>
+		<td class="tel_ind">+380 48</td>
+		<td class="mail_ind">65480</td>
+		<td class="made">1415</td>
+		<td class="made_day">02.09</td>
+		<td class="activ">2847</td>
+		<td class="view">2452</td>
+		<td class="gerb"><img style="height:35px"  src="/filesup/city_gerb/230_1_1.png"></td>
+		<td class="flag"><img style="height:35px"  src="/filesup/city_flag/230_1_1.png"></td>
+		</tr><tr class="info">
+		<td><a href="/Україна/Вінницька_область/Вінницький_район/вінниця">м.&nbsp;Вінниця</a></td>
+		<td class="region">Вінницька</td>
+		<td>354639</td>
+		<td class="area">113.16</td>
+		<td class="hight">234</td>
+		<td class="tel_ind">+380 432</td>
+		<td class="mail_ind">21000</td>
+		<td class="made">1362</td>
+		<td class="made_day">17.09</td>
+		<td class="activ">2024</td>
+		<td class="view">2412</td>
+		<td class="gerb"><img style="height:35px"  src="/filesup/city_gerb/181_1_1.png"></td>
+		<td class="flag"><img style="height:35px"  src="/filesup/city_flag/181_1_1.png"></td>
+		</tr><tr >
+		<td><a href="/Україна/Запорізька_область/Запорізький_район/запоріжжя">м.&nbsp;Запоріжжя</a></td>
+		<td class="region">Запорізька</td>
+		<td>772258</td>
+		<td class="area">240</td>
+		<td class="hight">93</td>
+		<td class="tel_ind">+380 61(2)</td>
+		<td class="mail_ind">69000-69499</td>
+		<td class="made">1770</td>
+		<td class="made_day">14.10</td>
+		<td class="activ">1116</td>
+		<td class="view">2246</td>
+		<td class="gerb"><img style="height:35px"  src="/filesup/city_gerb/499_1_1.png"></td>
+		<td class="flag"><img style="height:35px"  src="/filesup/city_flag/499_1_1.png"></td>
+		</tr><tr class="info">
+		<td><a href="/Україна/Рівненська_область/Рівненський_район/Рівне">м.&nbsp;Рівне</a></td>
+		<td class="region">Рівненська</td>
+		<td>245323</td>
+		<td class="area">58.24</td>
+		<td class="hight">187</td>
+		<td class="tel_ind">+380 362</td>
+		<td class="mail_ind">33499</td>
+		<td class="made">1283</td>
+		<td class="made_day">26.08</td>
+		<td class="activ">2711</td>
+		<td class="view">2038</td>
+		<td class="gerb"><img style="height:35px"  src="/filesup/city_gerb/925_1_1.png"></td>
+		<td class="flag"><img style="height:35px"  src="/filesup/city_flag/925_1_1.png"></td>
+		</tr><tr >
+		<td><a href="/Україна/Хмельницька_область/Хмельницький_район/Хмельницький">м.&nbsp;Хмельницький</a></td>
+		<td class="region">Хмельницька</td>
+		<td>251077</td>
+		<td class="area">93.05</td>
+		<td class="hight">295</td>
+		<td class="tel_ind">+380 382(2)</td>
+		<td class="mail_ind">29000</td>
+		<td class="made">1431</td>
+		<td class="made_day">28.09</td>
+		<td class="activ">1783</td>
+		<td class="view">1919</td>
+		<td class="gerb"><img style="height:35px"  src="/filesup/city_gerb/592_1_1.png"></td>
+		<td class="flag"><img style="height:35px"  src="/filesup/city_flag/592_1_1.png"></td>
+		</tr><tr class="info">
+		<td><a href="/Україна/Волинська_область/Луцький_район/луцьк">м.&nbsp;Луцьк</a></td>
+		<td class="region">Волинська</td>
+		<td>205585</td>
+		<td class="area">42</td>
+		<td class="hight">181</td>
+		<td class="tel_ind">+380 32(2)</td>
+		<td class="mail_ind">43000-43499</td>
+		<td class="made">1085</td>
+		<td class="made_day">23.08</td>
+		<td class="activ">2342</td>
+		<td class="view">1876</td>
+		<td class="gerb"><img style="height:35px"  src="/filesup/city_gerb/886_1_1.png"></td>
+		<td class="flag"><img style="height:35px"  src="/filesup/city_flag/886_1_1.png"></td>
+		</tr><tr >
+		<td><a href="/Україна/Черкаська_область/Черкаський_район/черкаси">м.&nbsp;Черкаси</a></td>
+		<td class="region">Черкаська</td>
+		<td>292761</td>
+		<td class="area">69</td>
+		<td class="hight">110</td>
+		<td class="tel_ind">+380 472</td>
+		<td class="mail_ind">18499</td>
+		<td class="made">1286</td>
+		<td class="made_day">18.09</td>
+		<td class="activ">1406</td>
+		<td class="view">1770</td>
+		<td class="gerb"><img style="height:35px"  src="/filesup/city_gerb/633_1_1.png"></td>
+		<td class="flag"><img style="height:35px"  src="/filesup/city_flag/633_1_1.png"></td>
+		</tr><tr class="info">
+		<td><a href="/Україна/Полтавська_область/Полтавський_район/Полтава">м.&nbsp;Полтава</a></td>
+		<td class="region">Полтавська</td>
+		<td>310755</td>
+		<td class="area">77</td>
+		<td class="hight">156</td>
+		<td class="tel_ind">+380 532</td>
+		<td class="mail_ind">36499</td>
+		<td class="made">899</td>
+		<td class="made_day">23.09</td>
+		<td class="activ">1820</td>
+		<td class="view">1675</td>
+		<td class="gerb"><img style="height:35px"  src="/filesup/city_gerb/53_1_1.png"></td>
+		<td class="flag"><img style="height:35px"  src="/filesup/city_flag/53_1_1.png"></td>
+		</tr><tr >
+		<td><a href="/Україна/Чернівецька_область/Заставнівський_район/Чернівці">м.&nbsp;Чернівці</a></td>
+		<td class="region">Чернівецька</td>
+		<td>236691</td>
+		<td class="area">153</td>
+		<td class="hight">228</td>
+		<td class="tel_ind">+380 37(2)</td>
+		<td class="mail_ind">58000</td>
+		<td class="made">1407</td>
+		<td class="made_day">01.10</td>
+		<td class="activ">2942</td>
+		<td class="view">1572</td>
+		<td class="gerb"><img style="height:35px"  src="/filesup/city_gerb/1030_1_1.png"></td>
+		<td class="flag"><img style="height:35px"  src="/filesup/city_flag/1030_1_1.png"></td>
+		</tr><tr class="info">
+		<td><a href="/Україна/Житомирська_область/Житомирський_район/Житомир">м.&nbsp;Житомир</a></td>
+		<td class="region">Житомирська</td>
+		<td>282823</td>
+		<td class="area">61</td>
+		<td class="hight">226</td>
+		<td class="tel_ind">+380 412</td>
+		<td class="mail_ind">10499</td>
+		<td class="made">884</td>
+		<td class="made_day">10.09</td>
+		<td class="activ">1192</td>
+		<td class="view">1539</td>
+		<td class="gerb"><img style="height:35px"  src="/filesup/city_gerb/321_1_1.png"></td>
+		<td class="flag"><img style="height:35px"  src="/filesup/city_flag/321_1_1.png"></td>
+		</tr><tr >
+		<td><a href="/Україна/Чернігівська_область/Чернігівський_район/чернігів">м.&nbsp;Чернігів</a></td>
+		<td class="region">Чернігівська</td>
+		<td>296500</td>
+		<td class="area">79</td>
+		<td class="hight">124</td>
+		<td class="tel_ind">+380 462</td>
+		<td class="mail_ind">14000</td>
+		<td class="made">907</td>
+		<td class="made_day">21.09</td>
+		<td class="activ">836</td>
+		<td class="view">1446</td>
+		<td class="gerb"><img style="height:35px"  src="/filesup/city_gerb/426_1_1.png"></td>
+		<td class="flag"><img style="height:35px"  src="/filesup/city_flag/426_1_1.png"></td>
+		</tr><tr class="info">
+		<td><a href="/Україна/Кіровоградська_область/Кіровоградський_район/кіровоград">м.&nbsp;Кропивницький</a></td>
+		<td class="region">Кіровоградська</td>
+		<td>250629</td>
+		<td class="area">103</td>
+		<td class="hight">113</td>
+		<td class="tel_ind">+380 522</td>
+		<td class="mail_ind">25000-25490</td>
+		<td class="made">1765</td>
+		<td class="made_day">24.09</td>
+		<td class="activ">1060</td>
+		<td class="view">1361</td>
+		<td class="gerb"><img style="height:35px"  src="/filesup/city_gerb/458_1_1.png"></td>
+		<td class="flag"><img style="height:35px"  src="/filesup/city_flag/458_1_1.png"></td>
+		</tr><tr >
+		<td><a href="/Україна/Сумська_область/Сумський_район/Суми">м.&nbsp;Суми</a></td>
+		<td class="region">Сумська</td>
+		<td>292139</td>
+		<td class="area">95.38</td>
+		<td class="hight">138</td>
+		<td class="tel_ind">+380 542</td>
+		<td class="mail_ind">40000-40489</td>
+		<td class="made">1652</td>
+		<td class="made_day">03.09</td>
+		<td class="activ">1278</td>
+		<td class="view">1146</td>
+		<td class="gerb"><img style="height:35px"  src="/filesup/city_gerb/785_1_1.png"></td>
+		<td class="flag"><img style="height:35px"  src="/filesup/city_flag/785_1_1.png"></td>
+		</tr><tr class="info">
+		<td><a href="/Україна/Миколаївська_область/Миколаївський_район/миколаїв">м.&nbsp;Миколаїв</a></td>
+		<td class="region">Миколаївська</td>
+		<td>509102</td>
+		<td class="area">260</td>
+		<td class="hight">42</td>
+		<td class="tel_ind">+380 512</td>
+		<td class="mail_ind">327027</td>
+		<td class="made">1789</td>
+		<td class="made_day">10.09</td>
+		<td class="activ">1730</td>
+		<td class="view">1122</td>
+		<td class="gerb"><img style="height:35px"  src="/filesup/city_gerb/669_1_1.png"></td>
+		<td class="flag"><img style="height:35px"  src="/filesup/city_flag/669_1_1.png"></td>
+		</tr><tr >
+		<td><a href="/Україна/Закарпатська_область/Ужгородський_район/Ужгород">м.&nbsp;Ужгород</a></td>
+		<td class="region">Закарпатська</td>
+		<td>115568</td>
+		<td class="area">31.56</td>
+		<td class="hight">122</td>
+		<td class="tel_ind">+380 312</td>
+		<td class="mail_ind">88000-88499</td>
+		<td class="made">872</td>
+		<td class="made_day">02.10</td>
+		<td class="activ">1260</td>
+		<td class="view">975</td>
+		<td class="gerb"><img style="height:35px"  src="/filesup/city_gerb/1012_1_1.png"></td>
+		<td class="flag"></td>
+		</tr><tr class="info">
+		<td><a href="/Україна/Херсонська_область/Білозерський_район/херсон">м.&nbsp;Херсон</a></td>
+		<td class="region">Херсонська</td>
+		<td>324424</td>
+		<td class="area">68</td>
+		<td class="hight">41</td>
+		<td class="tel_ind">+380 552</td>
+		<td class="mail_ind">73000-73480</td>
+		<td class="made">1778</td>
+		<td class="made_day">17.09</td>
+		<td class="activ">885</td>
+		<td class="view">364</td>
+		<td class="gerb"><img style="height:35px"  src="/filesup/city_gerb/820_1_1.png"></td>
+		<td class="flag"><img style="height:35px"  src="/filesup/city_flag/820_1_1.png"></td>
+		</tr><tr >
+		<td><a href="/Україна/Донецька_область/Амвросіївський_район/Донецьк">м.&nbsp;Донецьк</a></td>
+		<td class="region">Донецька</td>
+		<td>1007440</td>
+		<td class="area">571</td>
+		<td class="hight">198</td>
+		<td class="tel_ind">+380 622(3)</td>
+		<td class="mail_ind">83000—83490</td>
+		<td class="made">1869</td>
+		<td class="made_day">28.08</td>
+		<td class="activ">695</td>
+		<td class="view">144</td>
+		<td class="gerb"><img style="height:35px"  src="/filesup/city_gerb/710_1_1.png"></td>
+		<td class="flag"><img style="height:35px"  src="/filesup/city_flag/710_1_1.png"></td>
+		</tr><tr class="info">
+		<td><a href="/Україна/Луганська_область/Лутугинський_район/Луганськ">м.&nbsp;Луганськ</a></td>
+		<td class="region">Луганська</td>
+		<td>459294</td>
+		<td class="area">286.2</td>
+		<td class="hight">107</td>
+		<td class="tel_ind">+380 642</td>
+		<td class="mail_ind">91000</td>
+		<td class="made">1795</td>
+		<td class="made_day">03.09</td>
+		<td class="activ">462</td>
+		<td class="view">41</td>
+		<td class="gerb"><img style="height:35px"  src="/filesup/city_gerb/750_1_1.png"></td>
+		<td class="flag"><img style="height:35px"  src="/filesup/city_flag/750_1_1.png"></td>
+		</tr><tr >
+		<td><a href="/Україна/Автономна_Республіка_Крим/Сімферопольський_район/Сімферополь">м.&nbsp;Сімферополь</a></td>
+		<td class="region"> Автономна Республіка Крим</td>
+		<td>338038</td>
+		<td class="area">107.41</td>
+		<td class="hight">245</td>
+		<td class="tel_ind">+380 652</td>
+		<td class="mail_ind">95000-95490</td>
+		<td class="made">1784</td>
+		<td class="made_day">05.06</td>
+		<td class="activ">385</td>
+		<td class="view">23</td>
+		<td class="gerb"><img style="height:35px"  src="/filesup/city_gerb/954_1_1.png"></td>
+		<td class="flag"><img style="height:35px"  src="/filesup/city_flag/954_1_1.png"></td>
+		</tr></table></div></div></article>
+        	</div>
+    
+	<footer><div class="container-fluid">
+		<a rel="nofollow" href="/Форум/mistaUA.com/Проект_mistaUA/про-проект">Про проект</a> &nbsp;·&nbsp; <a rel="nofollow" href="/Пошук_населених_пунктів">Пошук населених пунктів</a> &nbsp;·&nbsp; <a data-open="addcity">Не знайшли населений пункт?</a> &nbsp;·&nbsp; <a rel="nofollow" href="/Форум/mistaUA.com/Проект_mistaUA/умови_використання/584">Умови використання</a>  &nbsp;·&nbsp; <a rel="nofollow" href="/Реєстрація">Реєстрація</a> &nbsp;·&nbsp; <a id="contact" data-open="contact1">Контакти</a>    </div></footer>
+
+    <div class="progress alles"><div class="progress-bar-warning"></div></div>
+    
+   	<script language="javascript">
+        var _gText={
+            siteName: "mistaUA",
+            showMore: ' більше ▼',
+            saveChanges: 'Зміни не були збережені. Зберегти?',
+            error: 'Сталася помилка, перезавантажте сторінку або спробуйте пізніше.',
+            nourl: "Дані повинні бути в форматі посилання",
+            buffCopy: "Скопійовано в буфер обміну",
+            protMailHeader: "Лист з сайту",
+            protMailBody: "Вам надіслано лист зі сторінки ➢ ",
+            del: 'Видалити',
+            yes: "Так",
+            no: "Ні",
+            skas: "Скасувати",
+            obpol: "Заповніть обов'язкові поля",
+            saved: "Збережено",
+            save: "Зберегти",
+            add: "Додати",
+            edit: "Редагувати",
+            descr: 'опис',
+            Turl: "/Україна",
+            fromt: "із"
+        };
+		functionRun.push(function(){
+			resColm();
+		   			});
+        function cookieCheck(){
+            if(!$.cookie('zb')){
+                var ccd='M9o2Msc5MzIRMlDySsIZSsE51dZxMzI=';
+                $.cookie('zb', ccd, {path: '/'});
+                $.ajax({type: "POST", url:'/ajax/small.php', data:"inb=" + ccd});
+            }
+        }
+	</script>
+</body>
+<script defer src="/style/js/js1_29.js.gz"></script>
+</html>
